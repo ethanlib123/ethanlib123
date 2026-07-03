@@ -1,6 +1,6 @@
 # Hi, I'm Ethan
 
-I'm a software engineer based in Israel who enjoys designing and building production software from the ground up.
+I'm a product engineer based in Israel who enjoys designing and building production software from the ground up.
 
 Over the past year I've built production systems across web, mobile, and backend, including:
 
