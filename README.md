@@ -17,7 +17,7 @@ Over the past year I've built production systems across web, mobile, and backend
 
 Ezra is a marketplace connecting homeowners with trusted home service professionals across Israel.
 
-As the sole software engineer, I designed and built the platform end to end, including:
+As the sole product engineer, I designed and built the platform end to end, including:
 
 - Customer web application
 - Cross-platform mobile application
