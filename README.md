@@ -26,7 +26,7 @@ As the sole software engineer, I designed and built the platform end to end, inc
 - Internal operations tools
 - Production cloud infrastructure
 
-Because Ezra is a commercial production application, the source code is private. I'm happy to discuss the architecture, engineering decisions, and implementation details during interviews.
+The Ezra codebase is private because it powers a production commercial application. I'm happy to discuss the architecture, design decisions, and implementation details during interviews.
 
 ## Selected Engineering Work
 
